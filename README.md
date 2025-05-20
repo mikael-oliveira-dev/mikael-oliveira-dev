@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é Mikael Alexandre, tenho 23 anos e sou natural de Juiz de Fora, Minas Gerais. 
+Meu nome é Mikael Alexandre, tenho 24 anos e sou natural de Juiz de Fora, Minas Gerais. 
 <br>
 Atualmente, curso Análise e Desenvolvimento de Sistemas, onde venho aprimorando minhas habilidades e aprofundando meus conhecimentos na área de tecnologia.
 <br>
